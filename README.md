@@ -2,7 +2,7 @@
 
 **Version 404: Lost in the Sauce Edition**
 
-![NoodleBrain Logo](https://i.imgur.com/4eOjrLb.jpeg)
+![NoodleBrain Logo](https://i.imgur.com/HKTB8wW.png)
 
 ## What is NoodleBrain OS?
 
@@ -15,6 +15,10 @@ NoodleBrain OS is not your average operating system. It's a symphony of spaghett
 - 🎶 **Rhythmic Updates:** Version 404 dances to the beat of life's eighth notes. Expect surprises, giggles, and the occasional tap-dancing bug.
 
 - 🌈 **Whimsical Wonderland License:** Dive into a world of freedom, fun, and frolic. Just remember to share the laughter!
+
+## Acknowledgments
+
+### ***A special thank you to Pineconium for the amazing ChoacuryOS, which served as the delicious base for NoodleBrain OS. Your dedication to chaos and creativity has inspired our noodle-filled adventure!***
 
 ## Getting Started
 1. **What you need**
@@ -48,4 +52,4 @@ This project is licensed under the Whimsical Wonderland License - see the [LICEN
 
 ---
 
-# ***NoodleBrain OS: Because computing should be a noodle-filled adventure! 🍜***
+### ***NoodleBrain OS: Because computing should be a noodle-filled adventure! 🍜***
