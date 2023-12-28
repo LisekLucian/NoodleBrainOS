@@ -2,7 +2,7 @@
 
 **Version 404: Lost in the Sauce Edition**
 
-![NoodleBrain Logo](https://imgur.com/a/hFZwcR9)
+![NoodleBrain Logo](https://i.imgur.com/4eOjrLb.jpeg)
 
 ## What is NoodleBrain OS?
 
