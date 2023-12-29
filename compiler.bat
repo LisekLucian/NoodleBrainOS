@@ -23,7 +23,3 @@ wsl mkdir -p isodir/boot/grub
 wsl cp NoodleBrainOS.bin isodir/boot/NoodleBrainOS.bin
 wsl cp src/boot/grub.cfg isodir/boot/grub/grub.cfg
 wsl grub-mkrescue -o NoodleBrainOS.iso isodir
-
-rem Add some code for when the rest of the code is ready ;-D
-echo Booting into QEMU...
-qemu-system-x86_64 -cdrom NoodleBrainOS.iso
