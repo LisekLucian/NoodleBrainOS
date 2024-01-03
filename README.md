@@ -39,7 +39,7 @@ NoodleBrain OS is not your average operating system. It's a symphony of spaghett
 
     *A text editing program*
     *NASM installed.*
-    *A computer running any Linux distro (Or windows, just compile it).*
+    *A computer running any Linux distro {***excluding noodlebrainos***} (Or windows, just compile it).*
     *A standard knowledge of Assembly and C. (How do you want to contribute without knowing how to code, Cmon!)*
 
 ## Contribution Guidelines
