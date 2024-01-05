@@ -12,7 +12,7 @@ gcc -m32 -c src/drivers/vga.c -o driv_vga.o
 ld -m elf_i386 -T src/linker.ld --allow-multiple-definition krnent.o krnc.o drivport.o drividt.o driv_utils.o driv_vga.o -o NoodlebrainOS.bin -nostdlib
 # Check the binary file is x86 multiboot file or not
 echo "Checking if BINARY is GRUB-Ready..."
-grub-file --is-x86-multiboot ChoacuryOS.bin
+grub-file --is-x86-multiboot NoodlebrainOS.bin
 # Building the ISO file
 echo "Making ISO file"
 mkdir -p isodir/boot/grub
